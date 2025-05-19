@@ -96,6 +96,10 @@ CREATE TABLE IF NOT EXISTS SPRING_AI_CHAT_MEMORY (
 2. MySQL 데이터베이스가 실행 중이어야 합니다.
 3. 애플리케이션 시작 시 자동으로 필요한 테이블이 생성됩니다.
 
+## 활용 예시
+![image](https://github.com/user-attachments/assets/f5061a9e-fe98-4aeb-9a76-e04a72eb10b2)
+
+
 ## 라이선스
 
 이 프로젝트는 MIT 라이선스를 따릅니다. 

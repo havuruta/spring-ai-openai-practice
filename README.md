@@ -6,7 +6,9 @@ Spring AI와 OpenAI API를 활용한 채팅 애플리케이션입니다. 대화 
 
 - Java 17
 - Spring Boot 3.2.3
-- Spring AI 1.0.0-RC1
+- Spring AI 1.0.0-SNAPSHOT
+- Spring AI JDBC ChatMemory
+- Spring AI OpenAI Model
 - MySQL 8.0
 - Gradle
 
